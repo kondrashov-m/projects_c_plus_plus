@@ -9,3 +9,4 @@
 <h3 align="center">Easy navigation has been developed for your convenience.</h3>
 
 # Навигация (Navigation)
+<a href="https://online.mospolytech.ru/mod/assign/view.php?id=320599">![asas](https://github.com/user-attachments/assets/a88b302e-fdf4-47fa-b239-d765808506c2)</a>
